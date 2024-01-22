@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nishantkumar/Desktop/open source/simple_calculator",
+      "program": "/Users/nishantkumar/Desktop/open source/simple_calculator/build/Debug/outDebug"
+    }
+  ]
+}
